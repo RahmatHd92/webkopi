@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  
+}
+
+
+.navbar-nav li {
+    padding: 0 10px;
+ }
+ .navbar-nav li a {
+    color: #1a191e  !important;
+    font-weight: 600;
+    float:right;
+    text-align: left;
+ }
+ 
+ .navbar-toggler {
+     outline: none !important;
+ }
+ 
+
+#banner .jumbotron {
+    background-color: #d5d6d8;
+    
+}
+
+#banner {
+ 
+}
+
+#store {
+    background-color: #1a191e;
+    margin-top: -34px;
+    color: white;
+}
+
+
+
+#store img {
+    margin-top: 30px;
+  
+}
+
+#store h3 {
+    margin-top: 50px;
+}
+
+#store p {
+    margin-top: 100px;
+    text-align: justify;
+  
+}
+
+#store1 {
+    background-color: #1a191e;
+    margin-top: -34px;
+    color: white;
+}
+
+#store1 img {
+    margin-top: 20px;
+  
+}
+
+#store1 h3 {
+    margin-top: 50px;
+}
+
+#banner1 .jumbotron {
+    background-image: url(./banner.jpg);
+    background-size: cover;
+    color: aliceblue;
+    text-align: justify;
+      
+}
+
+
+#banner1 input {
+    width: 90%;
+    height: 40px;
+}
+
+#banner1 input {
+    width: 100%;
+    height: 40px;
+}
+
+#banner1 button {
+    margin-top: 20px;
+}
+
+#footer {
+
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+    0 2px 4px rgba(0,0,0,0.07), 
+    0 4px 8px rgba(0,0,0,0.07), 
+    0 8px 16px rgba(0,0,0,0.07),
+    0 16px 32px rgba(0,0,0,0.07), 
+    0 32px 64px rgba(0,0,0,0.07);
+    margin-top: -34px;
+}
+
+
+#footer .card-body { 
+    background-color: #1a191e;
+    color: aliceblue;
+}
+
+.navbar-brand img {
+    width: 170px;
+}
+
+#saran {
+    background-color: #5f1782;
+    color: white;
+    height: 500px;
+   
+}
+
+#saran input {
+   
+    width: 100%;
+    height: 40px;
+}
+
+#saran h3 {
+    text-align: center;
+}
+
+
+#saran {
+    background-color: #5f1782;
+    color: white;
+    height: 500px;
+   
+}
+
+#saran input {
+   
+    width: 100%;
+    height: 40px;
+}
+
+#saran h3 {
+    text-align: center;
+}
+
+#footer .card {
+background-color: #1a191e;
+color: white;
+}
